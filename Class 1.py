@@ -7,6 +7,8 @@ objetivos:
     -entender la diferentes data types.
     -Hacer ejercicios practicos.
     -Llevar deberes.
+    -JUANCHI
+    
 # In[ ]:
 
 
