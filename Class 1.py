@@ -8,6 +8,7 @@ objetivos:
     -Hacer ejercicios practicos.
     -Llevar deberes.
     -JUANCHI
+    la concha de la loraaaa
     
 # In[ ]:
 
